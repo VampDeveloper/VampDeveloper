@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-Português :flag_brazil:<br>
+Português :flag_brazil: <br>
 Sou David LC, também conhecido como VampDeveloper, atualmente sou estudante de Gestão de Tecnologia da Informação, trabalhando na área de front-end web.</br>
 Tenho pouca experiência na área, mas estou trabalhando para melhorar meu desempenho.<br>
 
-English :flag_brazil:<br>
+English :flag_united_states: <br>
 I'm David LC, also known as VampDeveloper, I'm currently an Information Technology Management student, working in the web front-end field.<br>
 I have little experience in the area, but I am working to improve my performance.<br>
 
