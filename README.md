@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-Português 🇧🇷
+Português :flag_brazil:<br>
 Sou David LC, também conhecido como VampDeveloper, atualmente sou estudante de Gestão de Tecnologia da Informação, trabalhando na área de front-end web.</br>
 Tenho pouca experiência na área, mas estou trabalhando para melhorar meu desempenho.<br>
 
-English 🇬🇧 🇺🇸
+English :flag_brazil:<br>
 I'm David LC, also known as VampDeveloper, I'm currently an Information Technology Management student, working in the web front-end field.<br>
 I have little experience in the area, but I am working to improve my performance.<br>
 
@@ -12,7 +12,12 @@ I have little experience in the area, but I am working to improve my performance
 
 # 🚀 Expertise
 
-My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I'm proficient in popular frameworks and libraries such as React and VUE. </br> 
+Português  :flag_brazil:<br>
+Meu foco principal é o desenvolvimento de front-end, onde me especializei na criação de aplicativos da web. Tenho amplo conhecimento de HTML, CSS, JavaScript e sou proficiente em estruturas e bibliotecas populares, como Bootstrap. </br>
+Adoro trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.<br>
+
+English :flag_united_states:<br>
+My primary focus is on frontend development, where I specialize in building web applications. I have extensive knowledge of HTML, CSS, JavaScript and I'm proficient in popular frameworks and libraries such as Bootstrap. </br>
 I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
 # 💻 Tech Stack
